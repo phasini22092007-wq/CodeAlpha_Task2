@@ -1,0 +1,36 @@
+CODEALPHA DATA ANALYTICS — TASK 2
+
+Project Title: Exploratory Data Analysis of Book Prices and Ratings
+
+**1. Objective**
+
+The objective of this project is to explore a book dataset using Python, identify patterns, calculate statistics, and visualize the results.
+
+**2. Tools Used**
+
+- Python
+- Pandas
+- Matplotlib
+- Visual Studio Code
+
+**3. Dataset Description**
+
+The dataset contains 8 books and 4 columns: Title, Price, Rating, and Availability.
+
+**4. Key Findings**
+
+- The average book price is 30.18.
+- The lowest book price is 18.20.
+- The highest book price is 47.82.
+- The average book rating is 3.875 out of 5.
+- No missing values were found in the dataset.
+
+**5. Visualizations**
+
+Two graphs were created:
+- Book Prices Comparison
+- Distribution of Book Ratings
+
+**6. Conclusion**
+
+The analysis helped identify differences in book prices and ratings. Python Pandas was used to inspect the dataset and calculate statistics, while Matplotlib was used to visualize the findings. This project demonstrates the basic process of exploratory data analysis.
